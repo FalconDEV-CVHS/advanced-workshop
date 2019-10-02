@@ -21,6 +21,10 @@ distribution for more information.
 
 Then, to exit the prompt, type `(exit)`. If you didn't get this prompt, go back and make sure the `PATH` is set correctly.
 
-## Starting Out
+## Running Lisp
 
 Like most languages, you'll need to create a file ending with .lisp, such as the [guide.lisp](guide.lisp) provided in this lesson. Once you've made a file you can open a command prompt in the same directory and type `sbcl --script <file>` to run it. Try it on the provided [guide.lisp](guide.lisp).
+
+If it works, open up [guide.lisp](guide.lisp) inside of your preferred text editor, inside are examples of basic Common Lisp usage.
+
+Afterwards, try making your own Lisp program!
